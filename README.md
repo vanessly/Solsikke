@@ -14,8 +14,8 @@ These are the individuals who created the game:
 <ul>
   <li> Janavi Padala | <a href="https://www.linkedin.com/in/janavi-padala/">LinkedIn</a> | <a href="https://github.com/FancyCheesecake">GitHub</a></li></li>
   <li> Liberty Vanty | <a href="https://www.linkedin.com/in/liberty-vanty/">LinkedIn</a> | <a href="https://github.com/LibertyV7">GitHub</a></li></li>
-  <li> Theodore Jeddeloh | <a href="https://www.linkedin.com/in/liberty-vanty/">LinkedIn</a> | <a href="https://github.com/Teboje">GitHub</a></li></li>
-  <li> Vanessa (CC) Ly | <a href="https://www.linkedin.com/in/vanessly/">LinkedIn</a> | <a href="https://github.com/vanessly">GitHub</a></li></li>
+  <li> Theodore Jeddeloh | <a href="https://www.linkedin.com/in/theodore-jeddeloh-60260b27a/">LinkedIn</a> | <a href="https://github.com/Teboje">GitHub</a></li></li>
+  <li> Vanessa (CC) Ly | <a href="https://www.linkedin.com/in/vanessy/">LinkedIn</a> | <a href="https://github.com/vanessly">GitHub</a></li></li>
 </ul>
 
 ## Project Description
