@@ -1,5 +1,5 @@
 # Solsikke
-<img src="/solsikke.jpg" width="50%" height="50%">
+<img src="./solsikke.jpg" width="50%" height="50%">
 
 ## Accessing the Game
 ### Click [here](https://cs.wellesley.edu/~jp106/SolsikkeBuilds/SolsikkeWebGLBuild3/) to play the game!
