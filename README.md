@@ -1,5 +1,6 @@
 # Solsikke
 <img src="./solsikke.png" width="50%" height="50%">
+## Access
 ## Click [here](https://cs.wellesley.edu/~jp106/SolsikkeBuilds/SolsikkeWebGLBuild3/) to play the game!
 #### Username: `guest`
 #### Password: `sesam9e `
